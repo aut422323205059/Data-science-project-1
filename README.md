@@ -29,3 +29,19 @@ visualization.
 
 ## Author
 Swathi D
+
+## Dashboard Visualization
+
+### 1. Category Wise Sales
+![Category Wise Sales](Category_Wise_Sales.png)
+
+### 2. City Wise Sales
+![City Wise Sales](City_Wise_Sales.png)
+
+### 3. Product Wise Sales
+![Product Wise Sales](Product_Wise_Sales.png)
+
+### 4. Quantity Wise Sales
+![Quantity Wise Sales](Quantity_Wise_Sales.png)
+
+
