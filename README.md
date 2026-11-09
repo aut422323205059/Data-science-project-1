@@ -15,6 +15,18 @@ To analyze grocery sales and identity useful business insights.
 - Matplotlib
 - Power BI
 
+## Project Files
+- Grocery Sales Dataset
+- Python Analysis
+- Power BI Dashboard
+- Sales Visualization Charts
+
+## Analysis
+- Product-wise Sales
+- Category-wise Sales
+- City-wise Sales
+- Quantity-wise Sales
+
 ## Project Tasks
 - Data Cleaning
 - Data Analysis
